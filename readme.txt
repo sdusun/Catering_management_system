@@ -1,1 +1,1 @@
-Manual accounting, accounting, and inquiry are time-consuming, laborious, and error-prone. By running the catering management system in the computer, the above problems will be solved. Not only improve work efficiency, but also save a lot of human resources.
+Manual accounting, accounting, and inquiry are time-consuming, laborious, and error-prone. By running the catering management system in the computer, the above problems will be solved. Not only improve work efficiency, but also save a lot of human resources..
